@@ -1,0 +1,4 @@
+added join command
+added rejoin command 
+
+Shitty Music bot 
