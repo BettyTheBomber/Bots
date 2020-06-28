@@ -1,0 +1,6 @@
+- Changes -
+
+Removed - Level System For Now!
+Added - More Modertion Commands
+Removed - Useless Events
+Removed - All logging things
