@@ -1,0 +1,12 @@
+New Eco Jobs :
+
+= Good Jobs =
+doctor - £350 to £2500 - Wait time 10 mins
+janitor - £50 to £350 - Wait time 1 mins
+fastfood - £150 to £400 - Wait time 1 mins
+engineer - £100 to £900 - Wait time 1 mins
+
+= Bad Jobs =
+meth - £250 to £2500 - Wait time 10 mins
+pickpocket - £150 to £100 - Wait time 10 mins
+hitman - £1000 to £5000 - Wait time 10 mins
