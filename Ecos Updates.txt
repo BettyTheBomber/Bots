@@ -1,0 +1,1 @@
+Added new eco commands have to have roles to use 
