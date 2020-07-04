@@ -1,0 +1,3 @@
+removed bot spamming all the roles being updated by one role
+
+added nickname logging 
