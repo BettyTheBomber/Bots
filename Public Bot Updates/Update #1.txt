@@ -1,0 +1,3 @@
+Cooldown on !desposit all so people can start to rob users (10 mins cooldown)
+
+Displays cooldown on all commands now
